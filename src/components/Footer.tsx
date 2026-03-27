@@ -27,6 +27,7 @@ export default function Footer() {
               <li><Link href="/startups" className="text-ink-40 hover:text-white text-[0.875rem] font-light transition-colors duration-300">Startups</Link></li>
               <li><Link href="/corporate" className="text-ink-40 hover:text-white text-[0.875rem] font-light transition-colors duration-300">Corporate Innovation</Link></li>
               <li><Link href="/insights" className="text-ink-40 hover:text-white text-[0.875rem] font-light transition-colors duration-300">Insights</Link></li>
+              <li><Link href="/privacy" className="text-ink-40 hover:text-white text-[0.875rem] font-light transition-colors duration-300">Privacy Policy</Link></li>
             </ul>
           </div>
           <div>
