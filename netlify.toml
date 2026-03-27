@@ -1,0 +1,14 @@
+# Proxy Wix blog from cms.modernstrat.com
+# To activate: connect cms.modernstrat.com as a domain in Wix
+
+[[redirects]]
+  from = "/blog/*"
+  to = "https://cms.modernstrat.com/blog/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/blog"
+  to = "https://cms.modernstrat.com/blog"
+  status = 200
+  force = true
